@@ -1,0 +1,12 @@
+C:\temp\pinewood\CommonObjects\bin\Debug\net8.0\CommonObjects.deps.json
+C:\temp\pinewood\CommonObjects\bin\Debug\net8.0\CommonObjects.dll
+C:\temp\pinewood\CommonObjects\bin\Debug\net8.0\CommonObjects.pdb
+C:\temp\pinewood\CommonObjects\obj\Debug\net8.0\CommonObjects.csproj.AssemblyReference.cache
+C:\temp\pinewood\CommonObjects\obj\Debug\net8.0\CommonObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\pinewood\CommonObjects\obj\Debug\net8.0\CommonObjects.AssemblyInfoInputs.cache
+C:\temp\pinewood\CommonObjects\obj\Debug\net8.0\CommonObjects.AssemblyInfo.cs
+C:\temp\pinewood\CommonObjects\obj\Debug\net8.0\CommonObjects.csproj.CoreCompileInputs.cache
+C:\temp\pinewood\CommonObjects\obj\Debug\net8.0\CommonObjects.dll
+C:\temp\pinewood\CommonObjects\obj\Debug\net8.0\refint\CommonObjects.dll
+C:\temp\pinewood\CommonObjects\obj\Debug\net8.0\CommonObjects.pdb
+C:\temp\pinewood\CommonObjects\obj\Debug\net8.0\ref\CommonObjects.dll
